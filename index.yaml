@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  cert-manager-crds:
+  - apiVersion: v2
+    appVersion: 1.0.3
+    created: "2020-10-14T21:00:29.527649157Z"
+    description: Install cert-manager CRDs
+    digest: 6a1a075b9c6fbfcd8882a84783dda7639653a310d2516f09a24aade0392d6ad4
+    name: cert-manager-crds
+    urls:
+    - https://github.com/m-koetter-de/charts/releases/download/cert-manager-crds-1.0.3/cert-manager-crds-1.0.3.tgz
+    version: 1.0.3
+  cert-manager-letsencrypt-issuer:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-10-14T21:00:29.652277925Z"
+    description: Install cert-manager ClusterIssuer for Let's Encrypt
+    digest: 2dd50b03795f25d124172226dffd99745c36b6cdb59554f8b3f1a16e94774d42
+    name: cert-manager-letsencrypt-issuer
+    urls:
+    - https://github.com/m-koetter-de/charts/releases/download/cert-manager-letsencrypt-issuer-1.0.0/cert-manager-letsencrypt-issuer-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-10-14T21:00:29.33289497Z"
