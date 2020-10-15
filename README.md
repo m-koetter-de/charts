@@ -3,5 +3,5 @@
 ## Installation
 ```
 helm repo add m-koetter-de https://charts.m-koetter.de
-helm repo updatte
+helm repo update
 ```
